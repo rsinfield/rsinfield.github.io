@@ -16,7 +16,7 @@ The following link directs to the slide.
 
 
 ### Distribution of GP practice registered patients
-[full screen](https://nelcsu.maps.arcgis.com/apps/webappviewer/index.html?id=771aca46caeb43a388dcf21beced7814)
+[full screen version](https://nelcsu.maps.arcgis.com/apps/webappviewer/index.html?id=771aca46caeb43a388dcf21beced7814)
 
 
 
@@ -42,3 +42,6 @@ The following link directs to the slide.
       Fallback text here for unsupporting browsers, of which there are scant few.
     </iframe>
 </div>
+
+
+<a href="http://example.com/" target="_blank">example</a>
