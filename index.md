@@ -15,7 +15,8 @@ The following link directs to the slide.
 [slide link](/test_echarts.html)
 
 
-### Embed
+### Distribution of GP practice registered patients
+[full screen](https://nelcsu.maps.arcgis.com/apps/webappviewer/index.html?id=771aca46caeb43a388dcf21beced7814)
 
 
 
