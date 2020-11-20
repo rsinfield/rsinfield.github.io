@@ -21,7 +21,6 @@ The following link directs to the slide.
     position: relative;
     overflow: hidden;
     padding-top: 56.25%;
-    iframe.testiframe {  width: 100%;  height: 100%; } 
 }
 
 .testiframe {
@@ -29,6 +28,8 @@ The following link directs to the slide.
     top: 0;
     left: 0;
     border: 0;
+    width: 100%;
+    height: 100%;
 }
 </style>
 
