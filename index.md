@@ -20,11 +20,11 @@ The following link directs to the slide.
 
 
 <style>
-.resp-container {
-    position: relative;
-    overflow: hidden;
-    padding-top: 56.25%;
-}
+<!-- .resp-container {
+#     position: relative;
+#     overflow: hidden;
+#     padding-top: 56.25%;
+# } -->
 
 .testiframe {
     position: absolute;
