@@ -1,4 +1,9 @@
 
+---
+layout: page
+title: Coursework
+---
+
 
 
 <a href="/test_echarts.html">Page 2</a>
