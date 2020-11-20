@@ -31,8 +31,8 @@ The following link directs to the slide.
     top: 0;
     left: 0;
     border: 0;
-    width: 100%;
-    height: 100%;
+    width: 60%;
+    height: 40%;
 }
 </style>
 
