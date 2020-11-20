@@ -9,7 +9,7 @@ The following link directs to the slide.
 
 
 
-[slide link](/rsinfield.github.io/test_echarts.html)
+[slide link](/test_echarts.html)
 
 
 ### Embed
