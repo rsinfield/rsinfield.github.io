@@ -1,3 +1,26 @@
+
+
+```{css, echo=FALSE}
+    body .main-container {
+      max-width: 1600px !important;
+      width: 1600px !important;
+      margin-left: auto;
+      margin-right: auto;
+    }
+    body {
+      max-width: 1600px !important;
+      margin-left: auto;
+      margin-right: auto;
+    }
+    
+<script>
+$(document).ready(function(){
+    $('[data-toggle="tooltip"]').tooltip(); 
+});
+</script>
+    ```
+
+
 ## Hello github page
 
 ### Link
