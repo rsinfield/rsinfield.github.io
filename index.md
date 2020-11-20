@@ -70,7 +70,7 @@ Result:
 </style>
 
 <div class="resp-container">
-    <iframe class="testiframe" src="https://tcgriffith.github.io/xaringan_gh/xaringan_example.html">
+    <iframe class="testiframe" src="https://nelcsu.maps.arcgis.com/apps/webappviewer/index.html?id=771aca46caeb43a388dcf21beced7814">
       Fallback text here for unsupporting browsers, of which there are scant few.
     </iframe>
 </div>
