@@ -23,7 +23,7 @@ The following link directs to the slide.
 .resp-container {
     position: relative;
     overflow: hidden;
-    padding-top: 100%;     <!--  56.25%;  -->
+    padding-top: 65%;     <!--  56.25%;  -->
 }
 
 .testiframe {
