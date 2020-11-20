@@ -20,19 +20,19 @@ The following link directs to the slide.
 
 
 <style>
-<!-- .resp-container {
-#     position: relative;
-#     overflow: hidden;
-#     padding-top: 56.25%;
-# } -->
+.resp-container {
+    position: relative;
+    overflow: hidden;
+    padding-top: 100%;     <!--  56.25%;  -->
+}
 
 .testiframe {
     position: absolute;
     top: 0;
     left: 0;
     border: 0;
-    width: 60%;
-    height: 40%;
+    width: 100%;
+    height: 100%;
 }
 </style>
 
