@@ -34,7 +34,7 @@ The following link directs to the slide.
 </style>
 
 <div class="resp-container">
-    <iframe class="testiframe" src="https://nelcsu.maps.arcgis.com/apps/webappviewer/index.html?id=771aca46caeb43a388dcf21beced7814">
+    <iframe class="testiframe" src="https://nelcsu.maps.arcgis.com/apps/webappviewer/index.html?id=771aca46caeb43a388dcf21beced7814" style="-webkit-transform:scale(0.5);-moz-transform-scale(0.5);">
       Fallback text here for unsupporting browsers, of which there are scant few.
     </iframe>
 </div>
