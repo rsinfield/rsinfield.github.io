@@ -1,7 +1,16 @@
 ---
 title: Use tabs to organize content
-output: html_document
+output:
+  html_document:
+    template:
+    # test with the template before #1547
+    #- https://raw.githubusercontent.com/rstudio/rmarkdown/3a502fa8e85425aa7af723c1b4d2eecda9d7c632/inst/rmd/h/default.html
+    # test with the template modified by #1547
+    #- https://raw.githubusercontent.com/rstudio/rmarkdown/c6d06159c4860d45d0cfb09b79b39ade5f8a215b/inst/rmd/h/default.html
+    # test with the current PR
+    - https://raw.githubusercontent.com/RLesur/rmarkdown/bugfix/issue-1577/inst/rmd/h/default.html
 runtime: shiny
+
 ---
 
 
