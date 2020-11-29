@@ -1,4 +1,9 @@
-
+---
+title: "Edinburgh Biodiversity"
+author: John Doe
+date: 22/Oct/2016
+output: html_document
+---
 
 
 <a href="/test_echarts.html">Page 2</a>
