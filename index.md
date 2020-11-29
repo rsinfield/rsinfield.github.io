@@ -2,23 +2,20 @@
 
 ## Robert Sinfield test reel  
 
-<style>
-    body .main-container {
+
+body .main-container {
       max-width: 1600px !important;
       width: 1600px !important;
       margin-left: auto;
       margin-right: auto;
     }
-    body {
+
+<style>
+.body {
       max-width: 1600px !important;
       margin-left: auto;
       margin-right: auto;
-    }
-    div.dt-buttons {
-      float: right;
-      margin-right:10px;
-      margin-bottom:10px;
-      }
+}
       
 .resp-container {
     position: relative;
