@@ -1,17 +1,11 @@
----
-title: "Edinburgh Biodiversity"
-author: John Doe
-date: 22/Oct/2016
-output: html_document
----
 
 
 <a href="/test_echarts.html">Page 2</a>
 
 
-## Robert Sinfield test reel    
+## Robert Sinfield test reel  {.tabset}  
 
-### Link
+### Arcgis online
 
 Note the relative link starting with a slash before the html file.
 
