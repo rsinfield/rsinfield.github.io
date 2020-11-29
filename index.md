@@ -41,6 +41,15 @@ The following link directs to the slide.
     height: 100%;
     border: 0;
 }
+
+.rsiframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+}
 </style>
 
 
@@ -52,6 +61,6 @@ The following link directs to the slide.
 </div>
 
 <div class="resp-container">
-<iframe width="500" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"
+<iframe class="rsiframe"
 src="https://arcgis.com/apps/webappviewer/index.html?id=771aca46caeb43a388dcf21beced7814"></iframe>
 </div>
