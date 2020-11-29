@@ -5,14 +5,14 @@
 
 <style>
 .main-container {
-      max-width: 1600px !important;
-      width: 1600px !important;
+      max-width: 600px !important;
+      width: 600px !important;
       margin-left: auto;
       margin-right: auto;
     }
 
 .body {
-      max-width: 1600px !important;
+      max-width: 600px !important;
       margin-left: auto;
       margin-right: auto;
 }
