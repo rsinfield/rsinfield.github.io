@@ -2,9 +2,7 @@
 
 ## Robert Sinfield test reel  
 
-## more {.tabset}
-
-### Arcgis online
+### Arcgis online {.tabset}
 
 <a href="/test_echarts.html">Page 2</a>
 
