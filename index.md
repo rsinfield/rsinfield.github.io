@@ -3,17 +3,8 @@
     body .main-container {
         max-width: 1600px;
     }
-</style>
-
-
-## Robert Sinfield test reel  
-
-
-<style>
-
-
 .body {
-      max-width: 600px !important;
+      max-width: 1600px !important;
       margin-left: auto;
       margin-right: auto;
 }
@@ -44,6 +35,7 @@
 </style>
 
 
+## Robert Sinfield test reel 
 
 
 ### Arcgis online 
