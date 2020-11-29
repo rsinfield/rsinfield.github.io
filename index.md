@@ -6,22 +6,27 @@
 
 ### Arcgis online 
 
-<a href="/test_echarts.html">Page 2</a>
+<button class="tablink" onclick="openPage('Home', this, 'red')">Home</button>
+<button class="tablink" onclick="openPage('News', this, 'green')" id="defaultOpen">News</button>
+<button class="tablink" onclick="openPage('Contact', this, 'blue')">Contact</button>
+<button class="tablink" onclick="openPage('About', this, 'orange')">About</button>
 
-Note the relative link starting with a slash before the html file.
+<div id="Home" class="tabcontent">
+  <h3>Home</h3>
+  <p>Home is where the heart is..</p>
+</div>
 
-The index.md is used to customize the github page's home page, 
-The following link directs to the slide.
+<div id="News" class="tabcontent">
+  <h3>News</h3>
+  <p>Some news this fine day!</p>
+</div>
+
+<div id="Contact" class="tabcontent">
+  <h3>Contact</h3>
+  <p>Get in touch, or swing by for a cup of coffee.</p>
+</div>
 
 
-
-[slide link](/test_echarts.html)
-
-
-
-
-### Distribution of GP practice registered population
-<a href="https://nelcsu.maps.arcgis.com/apps/webappviewer/index.html?id=771aca46caeb43a388dcf21beced7814" target="_blank">full screen version</a>
 
 
 <style>
@@ -52,7 +57,7 @@ The following link directs to the slide.
 
 
 
-<div class="resp-container">
+<div id="About"  class="resp-container">
     <iframe class="testiframe" src="https://nelcsu.maps.arcgis.com/apps/webappviewer/index.html?id=771aca46caeb43a388dcf21beced7814">
       Fallback text here for unsupporting browsers, of which there are scant few.
     </iframe>
