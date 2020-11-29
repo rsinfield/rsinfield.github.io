@@ -71,13 +71,13 @@ The following link directs to the slide.
 <div style="width: 100%; overflow: hidden;">
      <div style="width: 600px; float: left;"> 
      <iframe class="rsiframe" src="https://nelcsu.maps.arcgis.com/apps/webappviewer/index.html?id=771aca46caeb43a388dcf21beced7814">
+     Left
     </iframe>
-    Left
      </div>
      <div style="margin-left: 620px;"> 
      <iframe class="rsiframe" src="https://nelcsu.maps.arcgis.com/apps/webappviewer/index.html?id=771aca46caeb43a388dcf21beced7814">
+     Right
     </iframe>
-    Right
     </div>
 </div>
 
