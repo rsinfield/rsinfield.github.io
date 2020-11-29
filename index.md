@@ -2,7 +2,7 @@
   * [Arcgis online](#arcgis-online)
   * [Distribution of GP practice registered population](#distribution-of-gp-practice-registered-population)
 
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
 
 
 
