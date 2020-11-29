@@ -3,14 +3,14 @@
 ## Robert Sinfield test reel  
 
 
-body .main-container {
+<style>
+.main-container {
       max-width: 1600px !important;
       width: 1600px !important;
       margin-left: auto;
       margin-right: auto;
     }
 
-<style>
 .body {
       max-width: 1600px !important;
       margin-left: auto;
