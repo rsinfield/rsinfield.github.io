@@ -1,13 +1,9 @@
 ---
-title: cv
+title: Habits
 author: John Doe
 date: March 22, 2005
 output: html_document
 ---
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
 
 
 ## Robert Sinfield test reel  {.tabset}  
@@ -25,21 +21,8 @@ The following link directs to the slide.
 
 [slide link](/test_echarts.html)
 
-<br>
-
-```{r}
-knitr::include_url("https://nelcsu.maps.arcgis.com/apps/webappviewer/index.html?id=771aca46caeb43a388dcf21beced7814", height = "500px")
-```
-
-
-<iframe src="https://nelcsu.maps.arcgis.com/apps/webappviewer/index.html?id=771aca46caeb43a388dcf21beced7814"></iframe>
-
-
-
-
 
 ### Distribution of GP practice registered population
-
 <a href="https://nelcsu.maps.arcgis.com/apps/webappviewer/index.html?id=771aca46caeb43a388dcf21beced7814" target="_blank">full screen version</a>
 
 
@@ -67,23 +50,4 @@ knitr::include_url("https://nelcsu.maps.arcgis.com/apps/webappviewer/index.html?
     </iframe>
 </div>
 
-<style>
-  
-iframe {
-  position: absolute;
-  top: 50%; 
-  left: 50%;
-  -webkit-transform: translateX(-50%) translateY(-50%);
-  transform: translateX(-50%) translateY(-50%);
-  min-width: 100vw; 
-  min-height: 100vh; 
-  z-index: -1000; 
-  overflow: hidden;
-}
-</style>
-
-
-
-<iframe width="500" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"
-src="https://nelcsu.maps.arcgis.com/apps/webappviewer/index.html?id=771aca46caeb43a388dcf21beced7814"></iframe>
 
