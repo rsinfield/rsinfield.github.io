@@ -1,6 +1,7 @@
 ---
 title: Use tabs to organize content
 output: html_document
+runtime: shiny
 ---
 
 
