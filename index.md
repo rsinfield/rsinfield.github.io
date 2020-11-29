@@ -51,7 +51,7 @@ The following link directs to the slide.
     </iframe>
 </div>
 
-<div
+<div class="resp-container">
 <iframe width="500" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"
 src="https://arcgis.com/apps/webappviewer/index.html?id=771aca46caeb43a388dcf21beced7814"></iframe>
 </div>
