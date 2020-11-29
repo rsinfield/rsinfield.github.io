@@ -43,7 +43,7 @@
 </style>
 
 
-
+<div class="body">
 
 ### Arcgis online 
 
@@ -72,6 +72,8 @@ The following link directs to the slide.
     <iframe class="testiframe" src="https://nelcsu.maps.arcgis.com/apps/webappviewer/index.html?id=771aca46caeb43a388dcf21beced7814">
       Fallback text here for unsupporting browsers, of which there are scant few.
     </iframe>
+</div>
+
 </div>
 
 
