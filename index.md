@@ -1,8 +1,8 @@
 ---
+
 title: Habits
-author: John Doe
-date: March 22, 2005
 output: html_document
+
 ---
 
 
@@ -27,27 +27,8 @@ The following link directs to the slide.
 
 
 
-<style>
-.resp-container {
-    position: relative;
-    overflow: hidden;
-    padding-top: 65%;     <!--  56.25%;  -->
-}
-
-.testiframe {
-    position: absolute;
-    top: 0;
-    left: 0;
-    border: 0;
-    width: 100%;
-    height: 100%;
-}
-</style>
-
-<div class="resp-container">
-    <iframe class="testiframe" src="https://nelcsu.maps.arcgis.com/apps/webappviewer/index.html?id=771aca46caeb43a388dcf21beced7814" >
-      Fallback text here for unsupporting browsers, of which there are scant few.
-    </iframe>
-</div>
 
 
+
+<iframe width="500" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"
+src="https://nelcsu.maps.arcgis.com/apps/webappviewer/index.html?id=771aca46caeb43a388dcf21beced7814"></iframe>
