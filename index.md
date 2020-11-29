@@ -28,9 +28,6 @@
 }
 
 .rsiframe {
-    position: absolute;
-    top: 0;
-    left: 0;
     width: 500px;
     height: 100%;
     border: 0;
@@ -76,8 +73,9 @@ The following link directs to the slide.
      <iframe class="rsiframe" src="https://nelcsu.maps.arcgis.com/apps/webappviewer/index.html?id=771aca46caeb43a388dcf21beced7814">
     </iframe>
      </div>
-     <div style="margin-left: 620px;"> Right 
+     <div style="margin-left: 620px;"> 
      <iframe class="rsiframe" src="https://nelcsu.maps.arcgis.com/apps/webappviewer/index.html?id=771aca46caeb43a388dcf21beced7814">
+    Right
     </iframe></div>
 </div>
 
