@@ -3,6 +3,9 @@
     body .main-container {
         max-width: 1600px;
     }
+</style>
+
+<style>
 .body {
       max-width: 1600px !important;
       margin-left: auto;
