@@ -31,7 +31,7 @@
     position: absolute;
     top: 0;
     left: 0;
-    width: 100%;
+    width: 500px;
     height: 100%;
     border: 0;
 }
@@ -66,9 +66,18 @@ The following link directs to the slide.
 
 <div class="resp-container">
     <iframe class="testiframe" src="https://nelcsu.maps.arcgis.com/apps/webappviewer/index.html?id=771aca46caeb43a388dcf21beced7814">
-      Fallback text here for unsupporting browsers, of which there are scant few.
     </iframe>
 </div>
 
 
+
+<div style="width: 100%; overflow: hidden;">
+     <div style="width: 600px; float: left;"> Left 
+     <iframe class="rsiframe" src="https://nelcsu.maps.arcgis.com/apps/webappviewer/index.html?id=771aca46caeb43a388dcf21beced7814">
+    </iframe>
+     </div>
+     <div style="margin-left: 620px;"> Right 
+     <iframe class="rsiframe" src="https://nelcsu.maps.arcgis.com/apps/webappviewer/index.html?id=771aca46caeb43a388dcf21beced7814">
+    </iframe></div>
+</div>
 
