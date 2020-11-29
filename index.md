@@ -42,12 +42,7 @@
 }
 </style>
 
-    
-<script>
-$(document).ready(function(){
-    $('[data-toggle="tooltip"]').tooltip(); 
-});
-</script>
+
 
 
 ### Arcgis online 
